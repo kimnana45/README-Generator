@@ -1,33 +1,32 @@
  # Scheduler
-[![GitHub license](https://img.shields.io/badge/license-ISC-blue)](https://github.com/kimnana45/scheduler)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/kimnana45/scheduler)
 
 ## Description 
 A daily planner to help you organize your todo list.
 
-    ## User Story
-    ```
-    AS A STUDENT
-    I WANT TO bE Organize
-    SO THAT I can finish all my todo list.
-    ```
+## User Story
+```
+AS A STUDENT
+I WANT TO bE Organize
+SO THAT I can finish all my todo list.
+```
 
-    ## Table of Content 
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Questions](#questions)
+## Table of Content 
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Questions](#questions)
     
-    ## Installation 
-    ```
-    npm i
-    ```
+## Installation 
+```
+npm i
+```
 
-    ## Usage
-    Be mindful!
+## Usage
+Be mindful!
 
-    ## License
-    ISC
+## License
+MIT
 
-    ## Questions
-    If you have any questions about the repo, please contact kimnnana45 at kimle.lek@gmail.com.
-    
+## Questions
+If you have any questions about the repo, please contact kimnnana45 at kimle.lek@gmail.com.
