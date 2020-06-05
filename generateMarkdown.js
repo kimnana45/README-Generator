@@ -19,33 +19,33 @@ generateMarkdown = answers => {
 ## Description 
 ${description}
 
-    ## User Story
-    \`\`\`
-    AS A ${role}
-    I WANT ${goal}
-    SO THAT ${reason}
-    \`\`\`
+## User Story
+\`\`\`
+AS A ${role}
+I WANT ${goal}
+SO THAT ${reason}
+\`\`\`
 
-    ## Table of Content 
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Questions](#questions)
+## Table of Content 
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Questions](#questions)
     
-    ## Installation 
-    \`\`\`
-    ${installation}
-    \`\`\`
+## Installation 
+\`\`\`
+${installation}
+\`\`\`
 
-    ## Usage
-    ${usage}
+## Usage
+${usage}
 
-    ## License
-    ${license}
+## License
+${license}
 
-    ## Questions
-    If you have any questions about the repo, please contact ${username} at ${email}.
-    `
+## Questions
+If you have any questions about the repo, please contact ${username} at ${email}.
+`
 }
 
 module.exports = generateMarkdown;
