@@ -1,15 +1,14 @@
- # scheduler
+ # Scheduler
+[![GitHub license](https://img.shields.io/badge/license-ISC-blue)](https://github.com/kimnana45/scheduler)
 
-    [![GitHub license](https://img.shields.io/badge/license-ISC-blue)](https://github.com/kimnana45/scheduler)
-
-    ## Description 
-    a daily schedule maker
+## Description 
+A daily planner to help you organize your todo list.
 
     ## User Story
     ```
-    AS A student
-    I WANT to be organize
-    SO THAT to finidh all things 
+    AS A STUDENT
+    I WANT TO bE Organize
+    SO THAT I can finish all my todo list.
     ```
 
     ## Table of Content 
@@ -24,11 +23,11 @@
     ```
 
     ## Usage
-    have fun
+    Be mindful!
 
     ## License
     ISC
 
     ## Questions
-    If you have any questions about the repo, please contact kimnana45 at kim@email.com.
+    If you have any questions about the repo, please contact kimnnana45 at kimle.lek@gmail.com.
     
