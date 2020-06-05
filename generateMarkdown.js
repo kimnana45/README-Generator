@@ -15,10 +15,10 @@ generateMarkdown = answers => {
 
     return ` # ${name}
 
-    [![GitHub license](https://img.shields.io/badge/license-${badge}-blue)](${url})
+[![GitHub license](https://img.shields.io/badge/license-${badge}-blue)](${url})
 
-    ## Description 
-    ${description}
+## Description 
+${description}
 
     ## User Story
     \`\`\`
