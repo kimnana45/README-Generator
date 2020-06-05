@@ -14,7 +14,6 @@ generateMarkdown = answers => {
     const badge = license.replace(/\s/g, '%20');
 
     return ` # ${name}
-
 [![GitHub license](https://img.shields.io/badge/license-${badge}-blue)](${url})
 
 ## Description 
