@@ -1,5 +1,5 @@
  # Scheduler
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/kimnana45/scheduler)
+[![GitHub license](https://img.shields.io/badge/license-ISC-blue)](https://github.com/kimnana45/scheduler)
 
 ## Description 
 A daily planner to help you organize your todo list.
@@ -26,7 +26,7 @@ npm i
 Be mindful!
 
 ## License
-MIT
+ISC
 
 ## Questions
 If you have any questions about the repo, please contact kimnnana45 at kimle.lek@gmail.com.
